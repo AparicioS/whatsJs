@@ -1,0 +1,38 @@
+[0627/102414.466:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acesso negado. (0x5)
+[0627/102414.467:ERROR:cache_util.cc(146)] Unable to move cache folder C:\whatsJs\.wwebjs_auth\session\Default\GPUCache to C:\whatsJs\.wwebjs_auth\session\Default\old_GPUCache_000
+[0627/102414.467:ERROR:disk_cache.cc(192)] Unable to create cache
+[0627/102414.467:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0627/102416.891:WARNING:cache_util.cc(97)] Unable to delete cache folder.
+[0627/102418.098:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\whatsJs\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0627/102418.098:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0627/102419.233:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\whatsJs\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0627/102419.234:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0627/102420.259:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\whatsJs\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0627/102420.259:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0627/102421.296:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\whatsJs\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0627/102421.296:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0627/102422.303:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\whatsJs\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0627/102428.588:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/102428.589:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/102428.591:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/105755.093:INFO:CONSOLE(0)] "The FetchEvent for "https://web.whatsapp.com/img/favicon-error2_fb2afa4bfd23495c7bd2555bb080bb35.png" resulted in a network error response: the promise was rejected.", source:  (0)
+[0627/105755.095:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/105756.153:INFO:CONSOLE(0)] "The FetchEvent for "https://web.whatsapp.com/img/favicon-error2_fb2afa4bfd23495c7bd2555bb080bb35.png" resulted in a network error response: the promise was rejected.", source:  (0)
+[0627/105756.153:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/124601.507:INFO:CONSOLE(0)] "The FetchEvent for "https://web.whatsapp.com/img/favicon-error2_fb2afa4bfd23495c7bd2555bb080bb35.png" resulted in a network error response: the promise was rejected.", source:  (0)
+[0627/124601.507:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/124603.261:INFO:CONSOLE(0)] "The FetchEvent for "https://web.whatsapp.com/img/favicon-error2_fb2afa4bfd23495c7bd2555bb080bb35.png" resulted in a network error response: the promise was rejected.", source:  (0)
+[0627/124603.285:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/135410.937:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/140417.552:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/141538.556:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/144201.622:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0627/150621.198:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/151747.823:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/155049.820:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/170707.688:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/170915.579:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/171047.162:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/171254.824:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/171352.685:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0627/171607.014:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
