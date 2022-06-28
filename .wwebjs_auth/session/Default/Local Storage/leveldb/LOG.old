@@ -1,3 +1,6 @@
-2022/06/24-20:49:52.669 36f4 Reusing MANIFEST C:\whatsJs\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2022/06/24-20:49:52.671 36f4 Recovering log #4
-2022/06/24-20:49:52.671 36f4 Reusing old log C:\whatsJs\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2022/06/27-10:24:14.459 5dc0 Reusing MANIFEST C:\whatsJs\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2022/06/27-10:24:14.460 5dc0 Recovering log #4
+2022/06/27-10:24:14.460 5dc0 Reusing old log C:\whatsJs\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2022/06/27-14:55:15.877 35f8 Level-0 table #8: started
+2022/06/27-14:55:15.885 35f8 Level-0 table #8: 9211 bytes OK
+2022/06/27-14:55:15.887 35f8 Delete type=0 #4
